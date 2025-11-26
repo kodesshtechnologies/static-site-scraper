@@ -1,0 +1,118 @@
+2025-11-26 23:11:59,811 - INFO - Opening website: https://books.toscrape.com/
+2025-11-26 23:12:04,936 - INFO - Scraping page 1: https://books.toscrape.com/
+2025-11-26 23:12:04,986 - INFO - Extracted 20 books from page 1
+2025-11-26 23:12:08,780 - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2025-11-26 23:12:08,822 - INFO - Extracted 20 books from page 2
+2025-11-26 23:12:11,611 - INFO - Scraping page 3: https://books.toscrape.com/page-3.html
+2025-11-26 23:12:11,629 - INFO - Extracted 0 books from page 3
+2025-11-26 23:12:11,629 - INFO - No more pages. Scraping finished.
+2025-11-26 23:19:00,404 - INFO - Opening website: https://books.toscrape.com/
+2025-11-26 23:19:05,437 - INFO - Scraping page 1: https://books.toscrape.com/
+2025-11-26 23:19:05,646 - INFO - Extracted 20 books from page 1
+2025-11-26 23:19:09,436 - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2025-11-26 23:19:09,591 - INFO - Extracted 20 books from page 2
+2025-11-26 23:19:12,387 - INFO - Scraping page 3: https://books.toscrape.com/page-3.html
+2025-11-26 23:19:12,394 - INFO - Extracted 0 books from page 3
+2025-11-26 23:19:12,394 - INFO - No more pages. Scraping finished.
+2025-11-26 23:21:04,425 - INFO - Opening website: https://books.toscrape.com/catalogue/page-1.html
+2025-11-26 23:21:12,155 - INFO - Scraping page 1: https://books.toscrape.com/catalogue/page-1.html
+2025-11-26 23:21:12,220 - INFO - Extracted 20 books from page 1
+2025-11-26 23:21:16,982 - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2025-11-26 23:21:17,023 - INFO - Extracted 20 books from page 2
+2025-11-26 23:21:21,059 - INFO - Scraping page 3: https://books.toscrape.com/catalogue/page-3.html
+2025-11-26 23:21:21,105 - INFO - Extracted 20 books from page 3
+2025-11-26 23:21:24,882 - INFO - Scraping page 4: https://books.toscrape.com/catalogue/page-4.html
+2025-11-26 23:21:24,918 - INFO - Extracted 20 books from page 4
+2025-11-26 23:21:28,684 - INFO - Scraping page 5: https://books.toscrape.com/catalogue/page-5.html
+2025-11-26 23:21:28,754 - INFO - Extracted 20 books from page 5
+2025-11-26 23:21:32,545 - INFO - Scraping page 6: https://books.toscrape.com/catalogue/page-6.html
+2025-11-26 23:21:32,624 - INFO - Extracted 20 books from page 6
+2025-11-26 23:21:36,440 - INFO - Scraping page 7: https://books.toscrape.com/catalogue/page-7.html
+2025-11-26 23:21:36,501 - INFO - Extracted 20 books from page 7
+2025-11-26 23:21:40,293 - INFO - Scraping page 8: https://books.toscrape.com/catalogue/page-8.html
+2025-11-26 23:21:40,355 - INFO - Extracted 20 books from page 8
+2025-11-26 23:21:44,127 - INFO - Scraping page 9: https://books.toscrape.com/catalogue/page-9.html
+2025-11-26 23:21:44,172 - INFO - Extracted 20 books from page 9
+2025-11-26 23:21:47,950 - INFO - Scraping page 10: https://books.toscrape.com/catalogue/page-10.html
+2025-11-26 23:21:47,987 - INFO - Extracted 20 books from page 10
+2025-11-26 23:21:51,531 - INFO - Scraping page 11: https://books.toscrape.com/catalogue/page-11.html
+2025-11-26 23:21:51,594 - INFO - Extracted 20 books from page 11
+2025-11-26 23:21:55,387 - INFO - Scraping page 12: https://books.toscrape.com/catalogue/page-12.html
+2025-11-26 23:21:55,458 - INFO - Extracted 20 books from page 12
+2025-11-26 23:21:59,231 - INFO - Scraping page 13: https://books.toscrape.com/catalogue/page-13.html
+2025-11-26 23:21:59,279 - INFO - Extracted 20 books from page 13
+2025-11-26 23:22:03,038 - INFO - Scraping page 14: https://books.toscrape.com/catalogue/page-14.html
+2025-11-26 23:22:03,094 - INFO - Extracted 20 books from page 14
+2025-11-26 23:22:08,675 - INFO - Scraping page 15: https://books.toscrape.com/catalogue/page-15.html
+2025-11-26 23:22:08,744 - INFO - Extracted 20 books from page 15
+2025-11-26 23:22:13,512 - INFO - Scraping page 16: https://books.toscrape.com/catalogue/page-16.html
+2025-11-26 23:22:13,578 - INFO - Extracted 20 books from page 16
+2025-11-26 23:22:17,868 - INFO - Scraping page 17: https://books.toscrape.com/catalogue/page-17.html
+2025-11-26 23:22:17,935 - INFO - Extracted 20 books from page 17
+2025-11-26 23:22:21,747 - INFO - Scraping page 18: https://books.toscrape.com/catalogue/page-18.html
+2025-11-26 23:22:21,791 - INFO - Extracted 20 books from page 18
+2025-11-26 23:22:25,677 - INFO - Scraping page 19: https://books.toscrape.com/catalogue/page-19.html
+2025-11-26 23:22:25,714 - INFO - Extracted 20 books from page 19
+2025-11-26 23:22:29,503 - INFO - Scraping page 20: https://books.toscrape.com/catalogue/page-20.html
+2025-11-26 23:22:29,563 - INFO - Extracted 20 books from page 20
+2025-11-26 23:22:33,107 - INFO - Scraping page 21: https://books.toscrape.com/catalogue/page-21.html
+2025-11-26 23:22:33,176 - INFO - Extracted 20 books from page 21
+2025-11-26 23:22:36,943 - INFO - Scraping page 22: https://books.toscrape.com/catalogue/page-22.html
+2025-11-26 23:22:37,014 - INFO - Extracted 20 books from page 22
+2025-11-26 23:22:40,766 - INFO - Scraping page 23: https://books.toscrape.com/catalogue/page-23.html
+2025-11-26 23:22:40,808 - INFO - Extracted 20 books from page 23
+2025-11-26 23:22:44,576 - INFO - Scraping page 24: https://books.toscrape.com/catalogue/page-24.html
+2025-11-26 23:22:44,641 - INFO - Extracted 20 books from page 24
+2025-11-26 23:22:48,402 - INFO - Scraping page 25: https://books.toscrape.com/catalogue/page-25.html
+2025-11-26 23:22:48,444 - INFO - Extracted 20 books from page 25
+2025-11-26 23:22:52,203 - INFO - Scraping page 26: https://books.toscrape.com/catalogue/page-26.html
+2025-11-26 23:22:52,258 - INFO - Extracted 20 books from page 26
+2025-11-26 23:22:56,012 - INFO - Scraping page 27: https://books.toscrape.com/catalogue/page-27.html
+2025-11-26 23:22:56,078 - INFO - Extracted 20 books from page 27
+2025-11-26 23:22:59,656 - INFO - Scraping page 28: https://books.toscrape.com/catalogue/page-28.html
+2025-11-26 23:22:59,724 - INFO - Extracted 20 books from page 28
+2025-11-26 23:23:03,516 - INFO - Scraping page 29: https://books.toscrape.com/catalogue/page-29.html
+2025-11-26 23:23:03,582 - INFO - Extracted 20 books from page 29
+2025-11-26 23:23:07,365 - INFO - Scraping page 30: https://books.toscrape.com/catalogue/page-30.html
+2025-11-26 23:23:07,438 - INFO - Extracted 20 books from page 30
+2025-11-26 23:23:11,200 - INFO - Scraping page 31: https://books.toscrape.com/catalogue/page-31.html
+2025-11-26 23:23:11,261 - INFO - Extracted 20 books from page 31
+2025-11-26 23:23:15,031 - INFO - Scraping page 32: https://books.toscrape.com/catalogue/page-32.html
+2025-11-26 23:23:15,096 - INFO - Extracted 20 books from page 32
+2025-11-26 23:23:18,946 - INFO - Scraping page 33: https://books.toscrape.com/catalogue/page-33.html
+2025-11-26 23:23:18,982 - INFO - Extracted 20 books from page 33
+2025-11-26 23:23:22,747 - INFO - Scraping page 34: https://books.toscrape.com/catalogue/page-34.html
+2025-11-26 23:23:22,820 - INFO - Extracted 20 books from page 34
+2025-11-26 23:23:26,579 - INFO - Scraping page 35: https://books.toscrape.com/catalogue/page-35.html
+2025-11-26 23:23:26,651 - INFO - Extracted 20 books from page 35
+2025-11-26 23:23:30,404 - INFO - Scraping page 36: https://books.toscrape.com/catalogue/page-36.html
+2025-11-26 23:23:30,445 - INFO - Extracted 20 books from page 36
+2025-11-26 23:23:34,215 - INFO - Scraping page 37: https://books.toscrape.com/catalogue/page-37.html
+2025-11-26 23:23:34,267 - INFO - Extracted 20 books from page 37
+2025-11-26 23:23:38,042 - INFO - Scraping page 38: https://books.toscrape.com/catalogue/page-38.html
+2025-11-26 23:23:38,100 - INFO - Extracted 20 books from page 38
+2025-11-26 23:23:41,866 - INFO - Scraping page 39: https://books.toscrape.com/catalogue/page-39.html
+2025-11-26 23:23:41,936 - INFO - Extracted 20 books from page 39
+2025-11-26 23:23:45,693 - INFO - Scraping page 40: https://books.toscrape.com/catalogue/page-40.html
+2025-11-26 23:23:45,754 - INFO - Extracted 20 books from page 40
+2025-11-26 23:23:49,322 - INFO - Scraping page 41: https://books.toscrape.com/catalogue/page-41.html
+2025-11-26 23:23:49,385 - INFO - Extracted 20 books from page 41
+2025-11-26 23:23:53,187 - INFO - Scraping page 42: https://books.toscrape.com/catalogue/page-42.html
+2025-11-26 23:23:53,239 - INFO - Extracted 20 books from page 42
+2025-11-26 23:23:56,810 - INFO - Scraping page 43: https://books.toscrape.com/catalogue/page-43.html
+2025-11-26 23:23:56,870 - INFO - Extracted 20 books from page 43
+2025-11-26 23:24:00,447 - INFO - Scraping page 44: https://books.toscrape.com/catalogue/page-44.html
+2025-11-26 23:24:00,508 - INFO - Extracted 20 books from page 44
+2025-11-26 23:24:04,067 - INFO - Scraping page 45: https://books.toscrape.com/catalogue/page-45.html
+2025-11-26 23:24:04,141 - INFO - Extracted 20 books from page 45
+2025-11-26 23:24:07,892 - INFO - Scraping page 46: https://books.toscrape.com/catalogue/page-46.html
+2025-11-26 23:24:07,936 - INFO - Extracted 20 books from page 46
+2025-11-26 23:24:11,723 - INFO - Scraping page 47: https://books.toscrape.com/catalogue/page-47.html
+2025-11-26 23:24:11,775 - INFO - Extracted 20 books from page 47
+2025-11-26 23:24:15,564 - INFO - Scraping page 48: https://books.toscrape.com/catalogue/page-48.html
+2025-11-26 23:24:15,630 - INFO - Extracted 20 books from page 48
+2025-11-26 23:24:19,433 - INFO - Scraping page 49: https://books.toscrape.com/catalogue/page-49.html
+2025-11-26 23:24:19,498 - INFO - Extracted 20 books from page 49
+2025-11-26 23:24:23,286 - INFO - Scraping page 50: https://books.toscrape.com/catalogue/page-50.html
+2025-11-26 23:24:23,353 - INFO - Extracted 20 books from page 50
+2025-11-26 23:24:23,353 - INFO - No more pages. Scraping finished.
