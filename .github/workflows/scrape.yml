@@ -4,7 +4,7 @@ name: Playwright Books Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *" # runs every 5 mins (you can change it)
+    - cron: "0 */8 * * *" # runs every 8 hours (you can change it)
 
 jobs:
   scrape:
@@ -47,3 +47,7 @@ jobs:
         with:
           name: scraper-logs
           path: logs/
+
+      # 7. DEBUG PRINT
+      - name: Debug time
+        run: echo "Cron ran at $(date)"
