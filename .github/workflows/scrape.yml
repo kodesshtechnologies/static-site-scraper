@@ -43,7 +43,7 @@ jobs:
 
       # 6. Upload logs (optional but recommended)
       - name: Upload logs
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: scraper-logs
           path: logs/
