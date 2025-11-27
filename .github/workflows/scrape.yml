@@ -1,0 +1,49 @@
+name: Playwright Books Scraper
+
+# Run manually + scheduled
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *" # runs every 5 mins (you can change it)
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout code
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Install Python + dependencies
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install --with-deps
+
+      # 4. Run scraper
+      - name: Run scraper
+        run: python main.py
+
+      # 5. Upload output files as workflow artifacts
+      - name: Upload scraped output
+        uses: actions/upload-artifact@v3
+        with:
+          name: books-data
+          path: |
+            output/books.csv
+            output/books.json
+
+      # 6. Upload logs (optional but recommended)
+      - name: Upload logs
+        uses: actions/upload-artifact@v3
+        with:
+          name: scraper-logs
+          path: logs/
