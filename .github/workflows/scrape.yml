@@ -13,7 +13,7 @@ jobs:
     steps:
       # 1. Checkout code
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       # 2. Install Python + dependencies
       - name: Setup Python
@@ -34,7 +34,7 @@ jobs:
 
       # 5. Upload output files as workflow artifacts
       - name: Upload scraped output
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: books-data
           path: |
